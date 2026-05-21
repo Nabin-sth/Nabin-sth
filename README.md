@@ -66,9 +66,9 @@ I enjoy working with **backend systems, REST APIs, databases, Flutter applicatio
 
 ## 📊 GitHub Stats
 
-![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabin-sth&show_icons=true&theme=default)
+![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabin-sth&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabin-sth&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabin-sth&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
