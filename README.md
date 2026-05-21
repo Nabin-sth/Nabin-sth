@@ -64,11 +64,11 @@ I enjoy working with **backend systems, REST APIs, databases, Flutter applicatio
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabin-sth&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Nabin-sth&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabin-sth&layout=compact&theme=tokyonight&hide_border=true)
+I am actively improving my GitHub profile by building projects, writing better documentation, and practicing clean version control.
 
 ---
 
